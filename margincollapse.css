@@ -1,0 +1,22 @@
+body{
+  background-color:hsl(330, 9%, 87%);
+}
+.heading{
+  margin-bottom:80px;
+  font-size:70px;
+  text-align:center;
+}
+.para {
+  border:rgb(4, 142, 4) 2px double;
+  border-radius:5px 15px;
+  padding:18px 13px 18px 20px; 
+  margin-bottom:80px;
+  line-height:19px;
+  margin-top:80px;
+}
+.picture {
+  width: 350px;
+  height: 450px;
+  margin-left:10px;
+  margin-top:40px;
+}
